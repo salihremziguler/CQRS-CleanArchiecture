@@ -1,0 +1,11 @@
+D:\Udemy\MyCourses\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\bin\Debug\net8.0\Core.Persistance.deps.json
+D:\Udemy\MyCourses\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\bin\Debug\net8.0\Core.Persistance.dll
+D:\Udemy\MyCourses\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\bin\Debug\net8.0\Core.Persistance.pdb
+D:\Udemy\MyCourses\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net8.0\Core.Persistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\Udemy\MyCourses\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net8.0\Core.Persistance.AssemblyInfoInputs.cache
+D:\Udemy\MyCourses\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net8.0\Core.Persistance.AssemblyInfo.cs
+D:\Udemy\MyCourses\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net8.0\Core.Persistance.csproj.CoreCompileInputs.cache
+D:\Udemy\MyCourses\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net8.0\Core.Persistance.dll
+D:\Udemy\MyCourses\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net8.0\refint\Core.Persistance.dll
+D:\Udemy\MyCourses\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net8.0\Core.Persistance.pdb
+D:\Udemy\MyCourses\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net8.0\ref\Core.Persistance.dll
