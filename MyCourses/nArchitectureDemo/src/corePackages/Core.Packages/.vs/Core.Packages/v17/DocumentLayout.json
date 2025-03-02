@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|d:\\udemy\\mycourses\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistance\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|solutionrelative:core.persistance\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|d:\\udemy\\mycourses\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistance\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|solutionrelative:core.persistance\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|d:\\udemy\\mycourses\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistance\\repositories\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|solutionrelative:core.persistance\\repositories\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|d:\\udemy\\mycourses\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistance\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|solutionrelative:core.persistance\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,13 +34,52 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Repositories\\IQuery.cs",
+              "RelativeDocumentMoniker": "Core.Persistance\\Repositories\\IQuery.cs",
+              "ToolTip": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Repositories\\IQuery.cs",
+              "RelativeToolTip": "Core.Persistance\\Repositories\\IQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T00:00:57.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core.Persistance\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Core.Persistance\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:59:39.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Repositories\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "Core.Persistance\\Repositories\\IAsyncRepository.cs",
+              "ToolTip": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Repositories\\IAsyncRepository.cs",
+              "RelativeToolTip": "Core.Persistance\\Repositories\\IAsyncRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:42:10.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Entity.cs",
               "DocumentMoniker": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Repositories\\Entity.cs",
               "RelativeDocumentMoniker": "Core.Persistance\\Repositories\\Entity.cs",
               "ToolTip": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Repositories\\Entity.cs",
               "RelativeToolTip": "Core.Persistance\\Repositories\\Entity.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T21:56:25.607Z",
               "EditorCaption": ""
