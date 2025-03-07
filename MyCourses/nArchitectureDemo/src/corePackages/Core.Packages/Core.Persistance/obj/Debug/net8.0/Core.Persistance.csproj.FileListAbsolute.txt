@@ -9,3 +9,5 @@ D:\Udemy\MyCourses\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persist
 D:\Udemy\MyCourses\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net8.0\refint\Core.Persistance.dll
 D:\Udemy\MyCourses\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net8.0\Core.Persistance.pdb
 D:\Udemy\MyCourses\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net8.0\ref\Core.Persistance.dll
+D:\Udemy\MyCourses\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net8.0\Core.Persistance.csproj.AssemblyReference.cache
+D:\Udemy\MyCourses\nArchitectureDemo\src\corePackages\Core.Packages\Core.Persistance\obj\Debug\net8.0\Core.Persistance.sourcelink.json

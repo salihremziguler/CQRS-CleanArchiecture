@@ -3,8 +3,48 @@
   "WorkspaceRootPath": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|d:\\udemy\\mycourses\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistance\\repositories\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|solutionrelative:core.persistance\\repositories\\efrepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|d:\\udemy\\mycourses\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistance\\repositories\\ientitytimesstamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|solutionrelative:core.persistance\\repositories\\ientitytimesstamps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|d:\\udemy\\mycourses\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistance\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|solutionrelative:core.persistance\\repositories\\iasyncrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|d:\\udemy\\mycourses\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistance\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|solutionrelative:core.persistance\\repositories\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|d:\\udemy\\mycourses\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistance\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|solutionrelative:core.persistance\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|d:\\udemy\\mycourses\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistance\\dynamic\\iqueryabledynamcifilterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|solutionrelative:core.persistance\\dynamic\\iqueryabledynamcifilterextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|d:\\udemy\\mycourses\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistance\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|solutionrelative:core.persistance\\paging\\paginate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|d:\\udemy\\mycourses\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistance\\paging\\iqueryablepaginateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|solutionrelative:core.persistance\\paging\\iqueryablepaginateextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|d:\\udemy\\mycourses\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistance\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|solutionrelative:core.persistance\\dynamic\\filter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|d:\\udemy\\mycourses\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistance\\dynamic\\dynamicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|solutionrelative:core.persistance\\dynamic\\dynamicquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|d:\\udemy\\mycourses\\narchitecturedemo\\src\\corepackages\\core.packages\\core.persistance\\dynamic\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADCC7510-00C9-44AC-8EB3-FEDF865776C5}|Core.Persistance\\Core.Persistance.csproj|solutionrelative:core.persistance\\dynamic\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -22,16 +62,140 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEntityTimesStamps.cs",
+              "DocumentMoniker": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Repositories\\IEntityTimesStamps.cs",
+              "RelativeDocumentMoniker": "Core.Persistance\\Repositories\\IEntityTimesStamps.cs",
+              "ToolTip": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Repositories\\IEntityTimesStamps.cs",
+              "RelativeToolTip": "Core.Persistance\\Repositories\\IEntityTimesStamps.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T23:32:58.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EfRepositoryBase.cs",
+              "DocumentMoniker": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Repositories\\EfRepositoryBase.cs",
+              "RelativeDocumentMoniker": "Core.Persistance\\Repositories\\EfRepositoryBase.cs",
+              "ToolTip": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Repositories\\EfRepositoryBase.cs",
+              "RelativeToolTip": "Core.Persistance\\Repositories\\EfRepositoryBase.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAIAwwM0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T23:34:33.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAsyncRepository.cs",
+              "DocumentMoniker": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Repositories\\IAsyncRepository.cs",
+              "RelativeDocumentMoniker": "Core.Persistance\\Repositories\\IAsyncRepository.cs",
+              "ToolTip": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Repositories\\IAsyncRepository.cs",
+              "RelativeToolTip": "Core.Persistance\\Repositories\\IAsyncRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:42:10.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Entity.cs",
               "DocumentMoniker": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Repositories\\Entity.cs",
               "RelativeDocumentMoniker": "Core.Persistance\\Repositories\\Entity.cs",
               "ToolTip": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Repositories\\Entity.cs",
               "RelativeToolTip": "Core.Persistance\\Repositories\\Entity.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T21:56:25.607Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Core.Persistance\\Repositories\\IRepository.cs",
+              "ToolTip": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Core.Persistance\\Repositories\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T23:59:39.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IQueryableDynamciFilterExtensions.cs",
+              "DocumentMoniker": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Dynamic\\IQueryableDynamciFilterExtensions.cs",
+              "RelativeDocumentMoniker": "Core.Persistance\\Dynamic\\IQueryableDynamciFilterExtensions.cs",
+              "ToolTip": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Dynamic\\IQueryableDynamciFilterExtensions.cs",
+              "RelativeToolTip": "Core.Persistance\\Dynamic\\IQueryableDynamciFilterExtensions.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAkwCUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:43:02.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Paginate.cs",
+              "DocumentMoniker": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Paging\\Paginate.cs",
+              "RelativeDocumentMoniker": "Core.Persistance\\Paging\\Paginate.cs",
+              "ToolTip": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Paging\\Paginate.cs",
+              "RelativeToolTip": "Core.Persistance\\Paging\\Paginate.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:47:36.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IQueryablePaginateExtensions.cs",
+              "DocumentMoniker": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Paging\\IQueryablePaginateExtensions.cs",
+              "RelativeDocumentMoniker": "Core.Persistance\\Paging\\IQueryablePaginateExtensions.cs",
+              "ToolTip": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Paging\\IQueryablePaginateExtensions.cs",
+              "RelativeToolTip": "Core.Persistance\\Paging\\IQueryablePaginateExtensions.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwC8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T21:54:04.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Filter.cs",
+              "DocumentMoniker": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Dynamic\\Filter.cs",
+              "RelativeDocumentMoniker": "Core.Persistance\\Dynamic\\Filter.cs",
+              "ToolTip": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Dynamic\\Filter.cs",
+              "RelativeToolTip": "Core.Persistance\\Dynamic\\Filter.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:06:28.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DynamicQuery.cs",
+              "DocumentMoniker": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Dynamic\\DynamicQuery.cs",
+              "RelativeDocumentMoniker": "Core.Persistance\\Dynamic\\DynamicQuery.cs",
+              "ToolTip": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Dynamic\\DynamicQuery.cs",
+              "RelativeToolTip": "Core.Persistance\\Dynamic\\DynamicQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:15:09.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Sort.cs",
+              "DocumentMoniker": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Dynamic\\Sort.cs",
+              "RelativeDocumentMoniker": "Core.Persistance\\Dynamic\\Sort.cs",
+              "ToolTip": "D:\\Udemy\\MyCourses\\nArchitectureDemo\\src\\corePackages\\Core.Packages\\Core.Persistance\\Dynamic\\Sort.cs",
+              "RelativeToolTip": "Core.Persistance\\Dynamic\\Sort.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T22:10:59.201Z"
             }
           ]
         }
