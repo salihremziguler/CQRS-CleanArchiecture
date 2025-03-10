@@ -38,3 +38,4 @@ D:\Udemy\MyCourses\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net8
 D:\Udemy\MyCourses\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.pdb
 D:\Udemy\MyCourses\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.genruntimeconfig.cache
 D:\Udemy\MyCourses\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net8.0\ref\WebApi.dll
+D:\Udemy\MyCourses\nArchitectureDemo\src\rentACar\RentACar\WebApi\obj\Debug\net8.0\WebApi.sourcelink.json
